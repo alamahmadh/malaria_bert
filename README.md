@@ -1,1 +1,1 @@
-# malaria_bert
+# BERT-based Topic Modeling Approach for Malaria Research Publications
